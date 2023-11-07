@@ -1,0 +1,104 @@
+body {
+    background-color: beige;
+    color: #000000;
+}
+
+.navbar {
+    background-color: #111;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-color: #fff;
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.container {
+    background-color: rgba(116, 93, 93, 0.6);
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.btn-primary {
+    background-color: #000000;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+#contact {
+    background-color: #333;
+    padding: 50px;
+    border-top: 2px solid #007BFF;
+}
+
+label {
+    color: #fff;
+}
+
+.social-icons {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.skill-container {
+    width: 100%;
+    background-color: #f0f0f0;
+    height: 20px;
+    margin: 10px 0;
+    border-radius: 5rem;
+}
+.skill-bar {
+    height: 100%;
+    width: 0;
+    background-color: #007acc;
+    text-align: center;
+    border-radius: 5rem;
+}
+.skill-name {
+    margin: 5px;
+}
+.foto{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+#about{
+    text-align: center;
+}
+
+#skills{
+    text-align: center;
+}
+
+.carousel-slide{
+    max-width: 100%;
+    max-height: 5px;
+    border-radius: 5rem;
+    box-shadow: contain;
+    object-fit: cover;
+}
+
+.carousel-item{
+    max-width: 100%;
+    height: auto;
+    border-radius: 5rem;
+}
+
+.imagenes{
+    padding: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
